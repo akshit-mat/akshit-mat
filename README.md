@@ -1,4 +1,4 @@
-# 🚀 Hello, I'm Akshit Mathur! 
+# 🚀 Hello, I'm Akshit Mathur! (@akshit-mat)
 
 ## 🌟 About Me
 I'm an undergraduate student on an exciting journey through the fascinating worlds of **Data Science** and **Machine Learning**. My code is my compass, guiding me through the intricate landscapes of technology and innovation. **Python** is my programming language of choice.
@@ -16,11 +16,9 @@ I'm diving deep into Machine Learning and Artificial Intelligence, exploring alg
 - Machine Learning
 - Algorithmic Problem Solving
 
-## 🌈 Fun Fact
-When I'm not wrestling with complex algorithms, you might find me doing somethin! Because life is more than just code – it's about the stories we create.
-
 ## 📬 Let's Connect!
-- **LinkedIn**: https://www.linkedin.com/in/akshit-mat
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akshit-mat)
+
 - **Email**: mathurakshit.work@gmail.com
 
 ### 📊 GitHub Stats
