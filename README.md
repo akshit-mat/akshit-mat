@@ -1,10 +1,12 @@
-# 🚀 Hello, I'm Akshit Mathur! (@akshit-mat)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=100&size=40&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=1000&height=70&lines=%F0%9F%91%8B+Heyy%2C+I'm+Akshit+Mathur!+(%40akshit-mat))](https://git.io/typing-svg)
+
+---
 
 ## 🌟 About Me
 I'm an undergraduate student on an exciting journey through the fascinating worlds of **Data Science** and **Machine Learning**. My code is my compass, guiding me through the intricate landscapes of technology and innovation. **Python** is my programming language of choice.
 
 ## 🧠 Tech Arsenal
-### - <span style="color:blue"> **Languages**: </span>
+### - **Languages**:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -13,7 +15,7 @@ I'm an undergraduate student on an exciting journey through the fascinating worl
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-### - <span style="color:blue"> **Frameworks**: </span>
+### - **Frameworks**:
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -23,7 +25,7 @@ I'm an undergraduate student on an exciting journey through the fascinating worl
 ![Turtle](https://img.shields.io/badge/Turtle-2D9CDB?style=for-the-badge&logo=python&logoColor=white)
 
   
-### - <span style="color:blue"> **Tools**: </span>
+### - **Tools**: 
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -49,4 +51,3 @@ I'm diving deep into Machine Learning and Artificial Intelligence, exploring alg
 [![LinkedIn: Akshit Mathur](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourusername)
 
 - **Email**: mathurakshit.work@gmail.com
-
